@@ -1,0 +1,22 @@
+#include "BinaryTree.h"
+#include "ListaOrdenada.h"
+#include "FilaDinamica.h"
+
+
+int main(int argc, char** argv) {
+
+    PtrNoTree arvore;
+    objeto obj;
+    filaDin fila;
+    objetoFila ob;
+    Lista list;
+    ObjetoLista o;
+    
+    iniciaArvore(&arvore);
+    
+    
+    
+    return (EXIT_SUCCESS);
+}
+
+
